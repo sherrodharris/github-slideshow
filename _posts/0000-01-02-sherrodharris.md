@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Teaching isn't just any other profession. Teaching is the profession that creates all other professions." @aleighmp
 Use the left arrow to go back!
